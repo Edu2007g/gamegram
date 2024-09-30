@@ -1,0 +1,76 @@
+.pagina-inicial {
+    text-align: center;
+
+}
+
+.tela-esquerda img {
+    height: 100vh;
+    max-width: 100%;
+}
+
+.tela-esquerda {
+    width: 75%;
+    overflow: hidden;
+}
+
+.tela-direita {
+    padding-left: 50px;
+}
+
+.tela-login {
+    display: flex;
+}
+
+.botoes {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+
+.botoes a {
+    background-color: rgb(242, 242, 242);
+    padding: 30px;
+    margin: 30px;
+    border-radius: 30px;
+    text-decoration: none;
+}
+
+body {
+    background-image: linear-gradient(0deg, rgb(74, 74, 236), white);
+    background-attachment: fixed;
+    padding: 0%;
+    margin: 0%;
+}
+
+.tela-login {
+    text-align: center;
+}
+
+.logo-home img {
+    width: 70px;
+    /* Altere para o tamanho desejado */
+    height: auto;
+    /* Mantém a proporção da imagem */
+    top: -95px;
+    /* Alinha ao topo */
+    left: -80px;
+    /* Alinha à esquerda */
+}
+
+.logo-home {
+    background-color: #ADD8E6;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.informações li {
+    display: inline;
+}
+
+.informações {
+    margin-right: 80px;
+}
