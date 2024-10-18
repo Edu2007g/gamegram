@@ -1,6 +1,6 @@
 .pagina-inicial {
-    text-align: center;
-
+text-align: center;
+ 
 }
 
 .tela-esquerda img {
@@ -38,7 +38,7 @@
 }
 
 .botoes a {
-    background-color: rgb(173, 165, 165);
+    background-color: rgb(255, 255, 255);
     padding: 30px;
     margin: 30px;
     border-radius: 30px;
@@ -48,7 +48,7 @@
 }
 
 body {
-    background-image: linear-gradient(0deg, rgb(122, 122, 153), white);
+    background-image: linear-gradient(0deg, rgb(133, 133, 238), white);
     background-attachment: fixed;
     padding: 0%;
     margin: 0%;
